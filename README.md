@@ -5,5 +5,5 @@ O projeto, feito junto com meu colega de Faculdade Lucas Medina, se trata de um 
 
 ![alt text](https://github.com/LucasTeixe/PROJETO---INF1031/blob/master/screenshots/tela_inicial.PNG)
 
-![alt text](https://github.com/LucasTeixe/PROJETO---INF1031/blob/master/screenshots/game.PNG)
+![alt text](https://github.com/LucasTeixe/PROJETO---INF1031/blob/master/screenshots/jogo.PNG)
 
